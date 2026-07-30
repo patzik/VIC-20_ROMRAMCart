@@ -12,7 +12,7 @@ Of course, this design comes with no guarantees of any sort. I can confirm that 
 Test
 --
 
-<img width="10712" height="5405" alt="img173" src="https://github.com/user-attachments/assets/23652eca-1b97-47a8-b6b0-555ec10c6f94" />
+<img width="5712" height="5405" alt="img173" src="https://github.com/user-attachments/assets/23652eca-1b97-47a8-b6b0-555ec10c6f94" />
 
 
 Overview
