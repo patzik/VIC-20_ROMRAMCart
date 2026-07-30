@@ -9,6 +9,12 @@ STL files for a 3D-printable cartridge enclosure are included here, curteousy of
 
 Of course, this design comes with no guarantees of any sort. I can confirm that the PCBs have been tested and work in my 1983 NTSC VIC-20 and expect that there would be no issues in a PAL system. If anyone finds problems with this design, please let me know or open an issue.
 
+Test
+--
+
+<img width="10712" height="5405" alt="img173" src="https://github.com/user-attachments/assets/23652eca-1b97-47a8-b6b0-555ec10c6f94" />
+
+
 Overview
 --
 
